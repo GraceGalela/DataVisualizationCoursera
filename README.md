@@ -1,4 +1,4 @@
-# DataVisualizationCoursera
+# DataVisualizationCourseraPA1
 
 This is my submission for the Data Visualization Coursera Programming Assignment 1
 
