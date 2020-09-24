@@ -5,7 +5,7 @@ This is my submission for the Data Visualization Coursera Programming Assignment
 The data used for this assignment is GISTEMP from NASA
 
 I used a free online data visualization site to make this called datavisu.al.
-As for the data set, I altered them a bit to make a tidy and direct graph
+As for the data set, I altered them a bit to make a tidy and direct graph through a line graph
 
 ![image](https://user-images.githubusercontent.com/44563893/94100162-723a6800-fe5f-11ea-9346-00ee66bcec4e.png)
 
